@@ -20,3 +20,14 @@ The Vrinda Store Sales Intelligence Dashboard is a comprehensive Power BI projec
 
 -What is the contribution of each product category to total sales?
 
+Dashboard Interaction <a href="https://github.com/NagaThanu18/Sales-Intelligence-Dashboard/blob/main/Vrinda%20Store%20Sales%20Intelligence%20dashboard.image.jpg">View Dashboard</a>
+
+## Process
+
+-Import and clean sales data from multiple sources using Power Query.
+
+-Create a star schema model with relationships and DAX measures for key KPIs.
+
+-Design dashboard page using visuals like bar charts, pie charts, card visuals, and maps.
+
+## Dashboard
