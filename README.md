@@ -8,7 +8,7 @@ The Vrinda Store Sales Intelligence Dashboard is a comprehensive Power BI projec
 
 ## Questions(KPIs)
 
--What is the distribution of sales across different cities?
+.What is the distribution of sales across different cities?
 
 -How is sales performance distributed across different states?
 
