@@ -6,4 +6,4 @@ The Vrinda Store Sales Intelligence Dashboard is a comprehensive Power BI projec
 ## Dataset used
 <a href="https://github.com/NagaThanu18/Sales-Intelligence-Dashboard/blob/main/Vrinda%20Store%20Sales%20Report.csv">Dataset</a>
 
-
+## Questions(KPIs)
