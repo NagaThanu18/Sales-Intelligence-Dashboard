@@ -34,3 +34,13 @@ Dashboard Interaction <a href="https://github.com/NagaThanu18/Sales-Intelligence
 
 ![Vrinda Store Sales Intelligence dashboard image](https://github.com/user-attachments/assets/e7083ea3-0fc8-471b-a75a-3642ba724c1f)
 
+## Project Insights
+
+-Bengaluru leads in city-wise sales, contributing the highest revenue across all urban regions, highlighting it as a key market hub for Vrinda Store.
+
+-Maharashtra emerged as the top-performing state, generating the highest total sales, indicating strong demand and customer engagement in the region.
+
+-Amazon is the most profitable sales channel, outperforming Flipkart and Myntra in total sales, making it the primary driver of online revenue.
+
+-The 'Set' product category recorded the highest sales, showcasing strong customer preference and high-volume purchases in this category.
+
