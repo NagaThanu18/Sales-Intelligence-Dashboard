@@ -7,3 +7,16 @@ The Vrinda Store Sales Intelligence Dashboard is a comprehensive Power BI projec
 <a href="https://github.com/NagaThanu18/Sales-Intelligence-Dashboard/blob/main/Vrinda%20Store%20Sales%20Report.csv">Dataset</a>
 
 ## Questions(KPIs)
+
+-What is the distribution of sales across different cities?
+
+-How is sales performance distributed across different states?
+
+-How does the total sales value vary across different categories?
+
+-What is the total sales amount?
+
+-Which channel is most profitable for Vrinda Store?
+
+-What is the contribution of each product category to total sales?
+
