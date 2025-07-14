@@ -8,27 +8,27 @@ The Vrinda Store Sales Intelligence Dashboard is a comprehensive Power BI projec
 
 ## Questions(KPIs)
 
-.What is the distribution of sales across different cities?
+● What is the distribution of sales across different cities?
 
--How is sales performance distributed across different states?
+● How is sales performance distributed across different states?
 
--How does the total sales value vary across different categories?
+● How does the total sales value vary across different categories?
 
--What is the total sales amount?
+● What is the total sales amount?
 
--Which channel is most profitable for Vrinda Store?
+● Which channel is most profitable for Vrinda Store?
 
--What is the contribution of each product category to total sales?
+● What is the contribution of each product category to total sales?
 
 Dashboard Interaction <a href="https://github.com/NagaThanu18/Sales-Intelligence-Dashboard/blob/main/Vrinda%20Store%20Sales%20Intelligence%20dashboard.image.jpg">View Dashboard</a>
 
 ## Process
 
--Import and clean sales data from multiple sources using Power Query.
+● Import and clean sales data from multiple sources using Power Query.
 
--Create a star schema model with relationships and DAX measures for key KPIs.
+● Create a star schema model with relationships and DAX measures for key KPIs.
 
--Design dashboard page using visuals like bar charts, pie charts, card visuals, and maps.
+● Design dashboard page using visuals like bar charts, pie charts, card visuals, and maps.
 
 ## Dashboard
 
@@ -36,13 +36,13 @@ Dashboard Interaction <a href="https://github.com/NagaThanu18/Sales-Intelligence
 
 ## Project Insights
 
--Bengaluru leads in city-wise sales, contributing the highest revenue across all urban regions, highlighting it as a key market hub for Vrinda Store.
+● Bengaluru leads in city-wise sales, contributing the highest revenue across all urban regions, highlighting it as a key market hub for Vrinda Store.
 
--Maharashtra emerged as the top-performing state, generating the highest total sales, indicating strong demand and customer engagement in the region.
+● Maharashtra emerged as the top-performing state, generating the highest total sales, indicating strong demand and customer engagement in the region.
 
--Amazon is the most profitable sales channel, outperforming Flipkart and Myntra in total sales, making it the primary driver of online revenue.
+● Amazon is the most profitable sales channel, outperforming Flipkart and Myntra in total sales, making it the primary driver of online revenue.
 
--The 'Set' product category recorded the highest sales, showcasing strong customer preference and high-volume purchases in this category.
+● The 'Set' product category recorded the highest sales, showcasing strong customer preference and high-volume purchases in this category.
 
 ## Final Conclusion
 
