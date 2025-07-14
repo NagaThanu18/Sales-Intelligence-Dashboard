@@ -31,3 +31,6 @@ Dashboard Interaction <a href="https://github.com/NagaThanu18/Sales-Intelligence
 -Design dashboard page using visuals like bar charts, pie charts, card visuals, and maps.
 
 ## Dashboard
+
+![Vrinda Store Sales Intelligence dashboard image](https://github.com/user-attachments/assets/e7083ea3-0fc8-471b-a75a-3642ba724c1f)
+
